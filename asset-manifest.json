@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/my_portfolio/static/css/main.825559c3.css",
-    "main.js": "/my_portfolio/static/js/main.b0aaa0c0.js",
+    "main.css": "/my_portfolio/static/css/main.86f2a39a.css",
+    "main.js": "/my_portfolio/static/js/main.a693ba46.js",
     "static/media/Netflix.PNG": "/my_portfolio/static/media/Netflix.15884f04fde54d78a18a.PNG",
     "static/media/Nordstrom.png": "/my_portfolio/static/media/Nordstrom.272ebbd940101b58ee3a.png",
     "static/media/bkf.PNG": "/my_portfolio/static/media/bkf.73602a6c71d0afdae213.PNG",
@@ -10,11 +10,11 @@
     "static/media/Resume.pdf": "/my_portfolio/static/media/Resume.56e2555d6d2dbb4f5d2e.pdf",
     "static/media/h_logo.png": "/my_portfolio/static/media/h_logo.9ba49e2144557f142bfc.png",
     "index.html": "/my_portfolio/index.html",
-    "main.825559c3.css.map": "/my_portfolio/static/css/main.825559c3.css.map",
-    "main.b0aaa0c0.js.map": "/my_portfolio/static/js/main.b0aaa0c0.js.map"
+    "main.86f2a39a.css.map": "/my_portfolio/static/css/main.86f2a39a.css.map",
+    "main.a693ba46.js.map": "/my_portfolio/static/js/main.a693ba46.js.map"
   },
   "entrypoints": [
-    "static/css/main.825559c3.css",
-    "static/js/main.b0aaa0c0.js"
+    "static/css/main.86f2a39a.css",
+    "static/js/main.a693ba46.js"
   ]
 }
