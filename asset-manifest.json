@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/my_portfolio/static/css/main.a1f26377.css",
-    "main.js": "/my_portfolio/static/js/main.db15da71.js",
+    "main.css": "/my_portfolio/static/css/main.14c5b5a6.css",
+    "main.js": "/my_portfolio/static/js/main.ac29edf6.js",
     "static/media/Netflix.PNG": "/my_portfolio/static/media/Netflix.15884f04fde54d78a18a.PNG",
     "static/media/Nordstrom.png": "/my_portfolio/static/media/Nordstrom.272ebbd940101b58ee3a.png",
     "static/media/bkf.PNG": "/my_portfolio/static/media/bkf.73602a6c71d0afdae213.PNG",
@@ -10,11 +10,11 @@
     "static/media/Hitesh-Tarwani-Resume.pdf": "/my_portfolio/static/media/Hitesh-Tarwani-Resume.50f228dc23236b3f7f2d.pdf",
     "static/media/h_logo.png": "/my_portfolio/static/media/h_logo.9ba49e2144557f142bfc.png",
     "index.html": "/my_portfolio/index.html",
-    "main.a1f26377.css.map": "/my_portfolio/static/css/main.a1f26377.css.map",
-    "main.db15da71.js.map": "/my_portfolio/static/js/main.db15da71.js.map"
+    "main.14c5b5a6.css.map": "/my_portfolio/static/css/main.14c5b5a6.css.map",
+    "main.ac29edf6.js.map": "/my_portfolio/static/js/main.ac29edf6.js.map"
   },
   "entrypoints": [
-    "static/css/main.a1f26377.css",
-    "static/js/main.db15da71.js"
+    "static/css/main.14c5b5a6.css",
+    "static/js/main.ac29edf6.js"
   ]
 }
