@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/my_portfolio/static/css/main.14c5b5a6.css",
-    "main.js": "/my_portfolio/static/js/main.ac29edf6.js",
-    "static/media/Netflix.PNG": "/my_portfolio/static/media/Netflix.15884f04fde54d78a18a.PNG",
-    "static/media/Nordstrom.png": "/my_portfolio/static/media/Nordstrom.272ebbd940101b58ee3a.png",
-    "static/media/bkf.PNG": "/my_portfolio/static/media/bkf.73602a6c71d0afdae213.PNG",
-    "static/media/hit.jpg": "/my_portfolio/static/media/hit.9025ce5b00d461abbe1f.jpg",
-    "static/media/Clock.PNG": "/my_portfolio/static/media/Clock.231e6baf3f7408725c38.PNG",
-    "static/media/Hitesh-Tarwani-Resume.pdf": "/my_portfolio/static/media/Hitesh-Tarwani-Resume.50f228dc23236b3f7f2d.pdf",
-    "static/media/h_logo.png": "/my_portfolio/static/media/h_logo.9ba49e2144557f142bfc.png",
-    "index.html": "/my_portfolio/index.html",
-    "main.14c5b5a6.css.map": "/my_portfolio/static/css/main.14c5b5a6.css.map",
-    "main.ac29edf6.js.map": "/my_portfolio/static/js/main.ac29edf6.js.map"
+    "main.css": "/static/css/main.9e7065dc.css",
+    "main.js": "/static/js/main.8fb7dd20.js",
+    "static/media/Netflix.PNG": "/static/media/Netflix.15884f04fde54d78a18a.PNG",
+    "static/media/Nordstrom.png": "/static/media/Nordstrom.272ebbd940101b58ee3a.png",
+    "static/media/bkf.PNG": "/static/media/bkf.73602a6c71d0afdae213.PNG",
+    "static/media/hit.jpg": "/static/media/hit.9025ce5b00d461abbe1f.jpg",
+    "static/media/Clock.PNG": "/static/media/Clock.231e6baf3f7408725c38.PNG",
+    "static/media/Hitesh-Tarwani-Resume.pdf": "/static/media/Hitesh-Tarwani-Resume.50f228dc23236b3f7f2d.pdf",
+    "static/media/h_logo.png": "/static/media/h_logo.9ba49e2144557f142bfc.png",
+    "index.html": "/index.html",
+    "main.9e7065dc.css.map": "/static/css/main.9e7065dc.css.map",
+    "main.8fb7dd20.js.map": "/static/js/main.8fb7dd20.js.map"
   },
   "entrypoints": [
-    "static/css/main.14c5b5a6.css",
-    "static/js/main.ac29edf6.js"
+    "static/css/main.9e7065dc.css",
+    "static/js/main.8fb7dd20.js"
   ]
 }
